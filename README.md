@@ -1,1 +1,3 @@
 # hyperparameters
+# KNN classifier
+# GridSearchCV
